@@ -1,0 +1,15 @@
+{
+  "name": "js_learning_one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack JavaScript/second.js dist/bundle.js"
+  },
+  "author": "Tony",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.4.1"
+  }
+}
